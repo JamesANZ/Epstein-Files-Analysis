@@ -1,0 +1,380 @@
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 1 of 15
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+JANE DOE,
+Plaintiff,
+v. Case No. 1:20-cv-00484-JGK-DCF
+DARREN K. INDYKE and RICHARD D. KAHN, in
+their capacities as executors of the ESTATE OF
+JEFFREY E. EPSTEIN, GHISLAINE MAXWELL,
+an individual,
+Defendants.
+THE CO-EXECUTORS’ REPLY IN SUPPORT OF THEIR
+MOTION TO DISMISS PLAINTIFF’S COMPLAINT
+TROUTMAN SANDERS LLP
+875 Third Avenue
+New York, New York 10022
+Tel: 212-704-6000
+Fax: 212-704-6288
+Attorneys for Defendants Darren K. Indyke
+and Richard D. Kahn, in their capacities as
+co-executors of the Estate of Jeffrey E. Epstein
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 2 of 15
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT ................................................................................................... 1
+ARGUMENT ................................................................................................................................. 2
+A. The Court should dismiss Plaintiff’s claims, which she admits are time-
+barred. .................................................................................................................... 2
+B. As Judge Engelmayer recently found, the Co-Executors’ motion to dismiss
+punitive damages is procedurally proper. .............................................................. 2
+C. As Judge Engelmayer recently held, New York law applies to the issue of
+punitive damages where, as here, the torts occurred there. ................................... 4
+D. As Judge Engelmayer recdently held, punitive damages are also
+unavailable under USVI law. ................................................................................. 7
+CONCLUSION ............................................................................................................................ 10
+-i-
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 3 of 15
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+AHW Inv. P’ship, MFS, Inc. v. Citigroup Inc.,
+661 F. App’x 2 (2d Cir. 2016) ...............................................................................................6, 7
+Banks v. Int’l Rental & Leasing Corp.,
+55 V.I. 967 (2011) ............................................................................................................8, 9, 10
+Blisset v. Eisensmidt,
+940 F. Supp. 499 (N.D.N.Y. 1996) ............................................................................................5
+Booth v. Bowen,
+Civ. No. 2006-217 (CVG), 2008 WL 220067 (D.V.I. Jan. 10, 2008) .......................................8
+Brady v. Port Auth.,
+Nos. 87 CV 2702 (NG)(CLP), 93 CV 1679 (NG)(CLP), 95 CV 0442
+(NG)(CLP), 1998 U.S. Dist. LEXIS 16548, at *9 (E.D.N.Y. Oct. 15, 1998) ............................4
+Brandy v. Flamboyant Inv. Co., Ltd.,
+24 V.I. 249 (V.I. Terr. Ct. 1989) ................................................................................................9
+Cerveceria Modelo, S.A. de C.V. v. USPA Accessories LLC,
+No. 07 Civ. 7998 (HB), 2008 U.S. Dist. LEXIS 28999 (S.D.N.Y. Apr. 10,
+2008) ..........................................................................................................................................3
+Davis v. Christian,
+46 V.I. 557 (D.V.I. App. Div. 2005) ..........................................................................................9
+Deutsch v. Novartis Pharms. Corp.,
+723 F. Supp. 2d 521 (E.D.N.Y. 2010) .......................................................................................6
+Gov’t of Virgin Islands v. Connor,
+60 V.I. 597 (2014) ......................................................................................................................8
+Guidi v. Inter-Continental Hotels Corp.,
+No. 95-CV-9006, 2003 U.S. Dist. LEXIS 6390 (S.D.N.Y. Apr. 16, 2003)...............................6
+Hamilton v. Dowson Holding Co.,
+51 V.I. 619 (D.V.I. 2009)...........................................................................................................8
+Isaac v. Crichlow,
+63 V.I. 38, 2015 V.I. LEXIS 15 (V.I. Super. Ct. 2015) .............................................................9
+-i-
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 4 of 15
+Jane Doe 15 v. Darren K. Indyke and Richard D. Kahn et al.,
+No. 19-cv-10653 (PAE) (DCF), ECF No. 39 (S.D.N.Y. April 30, 2020) .................2, 3, 4, 6, 7
+Crabtree ex rel. Kemp v. Estate of Crabtree,
+837 N.E.2d 135 (Ind. 2005) .....................................................................................................10
+Licci ex rel. Licci v. Lebanese Can. Bank, SAL,
+739 F.3d 45 (2d Cir. 2014) (per curiam) ....................................................................................6
+Mary Doe v. Darren K. Indyke and Richard D. Kahn et al.,
+No. 19-cv-10758 (PAE) (DCF), ECF No. 38
+(S.D.N.Y April 28, 2020).....................................................................1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Matthew v. Herman,
+56 V.I. 674 (2012) ......................................................................................................................8
+In re Merrill Lynch Auction Rate Sec. Litig.,
+851 F. Supp. 2d 512 (S.D.N.Y. 2012)....................................................................................3, 4
+Nash v. Coram Healthcare Corp.,
+No. 96 Civ. 0298 (LMM), 1996 U.S. Dist. LEXIS 9101 (S.D.N.Y. June 27,
+1996) ..........................................................................................................................................3
+Nat’l Jewish Democratic Council v. Adelson,
+No. 18 Civ. 8787 (JPO), 2019 U.S. Dist. LEXIS 168675 (S.D.N.Y. Sept. 30,
+2019) ..........................................................................................................................................7
+Pappas v. Hotel on the Cay Time-Sharing Ass’n,
+69 V.I. 3 (U.S.V.I. Super. Ct. 2015) ..........................................................................................9
+Powell v. Chi-Co’s Distrib.,
+No. ST-13-TOR-14, 2014 V.I. LEXIS 21 (U.S.V.I. Super. Ct. Apr. 3, 2014) ..........................9
+St. Thomas House, Inc. v. Barrows,
+15 V.I. 435 (V.I. Terr. Ct. 1979) ................................................................................................9
+Starr Indem. & Liab. Co. v. Am. Claims Mgmt.,
+No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272 (S.D.N.Y. May 7, 2015)........................6
+Stenberg v. Carhart,
+530 U.S. 914, 120 S. Ct. 2597 (2000) ......................................................................................10
+Thomas v. Rijos,
+780 F. Supp. 2d 376 (D.V.I. 2011) ............................................................................................9
+Statutes
+E.P.T.L. § 11-3.2(a)(1).................................................................................................................4, 5
+-ii-
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 5 of 15
+New York Child Victims Act ......................................................................................................4, 7
+Other Authorities
+C. Wright & A. Miller, 5C Fed. Prac. & Proc. Civ. § 1380 (3d ed.) ...............................................3
+Alec A. Beech, Adding Insult to Death: Why Punitive Damages Should Not Be
+Imposed Against a Deceased Tortfeasor’s Estate in Ohio, 49 Akron L. Rev.
+553 (2016) ..................................................................................................................................8
+Federal Rule of Civil Procedure 12(b)(6) and 12(f) ........................................................................4
+2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015) .......................................................8
+Restatement (Second) of Torts (1965) .............................................................................................9
+Restatement (Second) of Torts § 908...........................................................................................8, 9
+Restatement (Second) of Torts § 908(2) ..........................................................................................9
+Timothy R. Robicheaux and Brian H. Bornstein, Punished, Dead Or Alive:
+Empirical Perspectives on Awarding Punitive Damages Against Deceased
+Defendants .................................................................................................................................9
+-iii-
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 6 of 15
+The Co-Executors1 submit this reply memorandum of law in further support of their motion
+to dismiss Counts I-IV of Plaintiff Jane Doe’s Complaint to the extent they are time-barred, Count
+V in its entirety, and Plaintiff’s demand for punitive damages (ECF No. 36).
+PRELIMINARY STATEMENT
+In her opposition brief, Plaintiff concedes much of the Co-Executors’ motion to dismiss.
+Plaintiff agrees that Counts I-IV of her Complaint (ECF No. 9) are only timely to the extent they
+arise from alleged conduct that occurred in New York when Plaintiff was minor. (Plf.’s Opp. Br.
+(“Opp. Br.”), ECF. No. 39, at p. 1.) To the extent her Complaint could be read to bring causes of
+action for conduct that occurred either (a) outside of New York or (b) after the Plaintiff became an
+adult, whether in New York or elsewhere, Plaintiff admits those claims are time-barred. (Id.)
+Plaintiff also acknowledges that Count V for false imprisonment must be dismissed as untimely;
+and she therefore withdraws it. (Id.) Accordingly, these claims should be dismissed by order of
+the Court.
+The only remaining issue is whether Plaintiff’s claim for punitive damages against a
+deceased alleged tortfeasor’s estate—something which is precluded by New York statute—should
+be allowed to proceed. On April 28 and April 30, 2020, the Hon. Paul A. Engelmayer correctly
+ruled that the answer is “no,” dismissing claims for punitive damages in two other actions against
+the Co-Executors in which plaintiffs raise claims similar to those asserted by Plaintiff in this action.
+See Mary Doe v. Darren K. Indyke and Richard D. Kahn et al., No. 19-cv-10758 (PAE) (DCF),
+1 Capitalized terms not defined herein have the meanings ascribed to them in the Co-Executors’ moving brief (ECF
+No. 37).
+- 1 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 7 of 15
+Opinion & Order ECF No. 38 (S.D.N.Y April 28, 2020); Jane Doe 15 v. Darren K. Indyke and
+Richard D. Kahn et al., No. 19-cv-10653 (PAE) (DCF), ECF No. 39 (S.D.N.Y. April 30, 2020).2
+In doing so, Judge Engelmayer rejected every single argument raised by Plaintiff in this
+action, finding that: (1) a motion to dismiss or strike punitive damages is procedurally proper,
+regardless of its title; (2) New York law applies to a claim for punitive damages under
+circumstances also present in this action, including that the alleged torts took place entirely in New
+York; (3) New York law bars claims for punitive damages against a deceased tortfeasor’s estate;
+and (4) even if USVI law applied, which it does not, the result is the same. See generally id. The
+Court should dismiss Plaintiff’s punitive damages claims in this action on the same grounds as
+those applied by Judge Engelmayer.
+ARGUMENT
+A. The Court should dismiss Plaintiff’s claims, which she admits are time-barred.
+Plaintiff concedes that Counts I-IV of her Complaint (ECF No. 9) are only timely to the
+extent they arise from conduct that occurred in New York State when she was minor. (Opp. at 1,
+ECF. No. 39.) Plaintiff also concedes that Count V (False Imprisonment) of her Complaint is
+completely time-barred; and she represents she is withdrawing it. (Id.) Therefore, the Court should
+dismiss Plaintiff’s claims to the extent they arise from conduct that occurred outside New York or
+when Plaintiff was an adult, as well as Plaintiff’s false imprisonment cause of action in its entirety.
+B. As Judge Engelmayer recently found, the Co-Executors’ motion to dismiss
+punitive damages is procedurally proper.
+As Judge Engelmayer recently found in two other actions against the Co-Executors, in
+which the plaintiffs assert claims similar to those Plaintiff raises in this action, Plaintiff’s argument
+2 Copies of the Opinions & Orders entered in Mary Doe and Jane Doe 15 are attached as Exhibits A and B to the
+Declaration of Bennet J. Moskowitz submitted herewith.
+- 2 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 8 of 15
+that the Co-Executors’ motion is procedurally improper is misplaced and should be rejected.
+“[T]he technical name given to a motion challenging a pleading is of little importance inasmuch
+as prejudice to the nonmoving party can hardly result from treating a motion that has been
+inaccurately denominated as a motion to strike as a motion to dismiss the complaint.” See C.
+Wright & A. Miller, 5C Fed. Prac. & Proc. Civ. § 1380 (3d ed.). Regardless of whether the Co-
+Executors’ motion would be more properly styled as a motion to strike, the Court should dismiss
+Plaintiff’s punitive damages claims at this time. See e.g., Mary Doe, No. 19-cv-10758, ECF No.
+38 (granting motion to dismiss punitive damages against the Co-Executors); Jane Doe 15, No. 19-
+cv-10653, ECF No. 39 (same); see alsoIn re Merrill Lynch Auction Rate Sec. Litig., 851 F. Supp.
+2d 512, 544 (S.D.N.Y. 2012) (granting defendant’s motion to strike sections of first amended
+complaint asserting punitive damages); Nash v. Coram Healthcare Corp., No. 96 Civ. 0298
+(LMM), 1996 U.S. Dist. LEXIS 9101, at *15 (S.D.N.Y. June 27, 1996) (“The motion to strike the
+punitive damages prayer from the Complaint is granted.”); Cerveceria Modelo, S.A. de C.V. v.
+USPA Accessories LLC, No. 07 Civ. 7998 (HB), 2008 U.S. Dist. LEXIS 28999, at *21-22
+(S.D.N.Y. Apr. 10, 2008) (“Because Defendant has failed to allege that Plaintiff’s conduct was
+egregious and directed at the public generally, its claim for punitive damages cannot proceed.”);
+see also Brady v. Port Auth., Nos. 87 CV 2702 (NG)(CLP), 93 CV 1679 (NG)(CLP), 95 CV 0442
+(NG)(CLP), 1998 U.S. Dist. LEXIS 16548, at *9 (E.D.N.Y. Oct. 15, 1998) (granting Port
+Authority’s motion to strike plaintiff’s claims for punitive damages).
+As Judge Engelmayer found, “where punitive damages have been unavailable as a matter
+of law, courts have not hesitated to dismiss prayers for such damages at the threshold.” Mary Doe,
+No. 19-cv-10758, ECF No. 38, slip op. at 7; see alsoJane Doe 15, No. 19-cv-10653, ECF No. 39.
+Judge Engelmayer also found that “ample authority permits striking prayers for punitive damages
+- 3 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 9 of 15
+where such relief is unavailable as a matter of law.” Id. at 8 (citing In re Merrill Lynch Auction
+Rate Sec. Litig., 851 F. Supp. 2d at 544).
+Discarding the “conceptual debate” between motions filed under Federal Rule of Civil
+Procedure 12(b)(6) and 12(f), Judge Engelmayer further concluded that the Court could in any
+event dismiss claims for punitive damages sua sponte under Rule 12(f). Mary Doe, No. 19-cv-
+10758, ECF No. 38, slip op. at 9 (S.D.N.Y. April 28, 2020). Judge Engelmayer further explained:
+Here, there is practical wisdom in treating defendant’s motion as one to strike, if
+doing so is necessary to enable the Court to resolve at the jump the viability of
+Doe’s prayer for punitive damages. With numerous personal injury actions pending
+against the Epstein estate as a result of the recent enactment of the New York Child
+Victims Act, there is value in clarifying—for the parties and settlors—the damages
+available in actions where the law permits a sure answer on this point.
+Id.
+The same “practical wisdom” applies here. Like the factually similar cases Mary Doe and
+Jane Doe 15, punitive damages are not available in this case as a matter of law pursuant to E.P.T.L.
+§ 11-3.2(a)(1). As in those cases, clarifying the damages available to Plaintiff in this action would
+further serve to facilitate potential resolution of this and many other cases pending against the
+Estate. Accordingly, the Court should grant the Co-Executors’ motion to dismiss Plaintiff’s claims
+for punitive damages, however styled.
+C. As Judge Engelmayer recently held, New York law applies to the issue of
+punitive damages where, as here, the torts occurred there.
+Plaintiff’s next argument claims New York’s choice-of-law analysis would find that USVI
+law applies to her demand for punitive damages. She is incorrect for the same well-founded
+reasoning that Judge Engelmayer applied when dismissing Mary Doe’s claim for punitive damages
+against the Co-Executors.
+As a threshold matter, Plaintiff ignores Blisset v. Eisensmidt, 940 F. Supp. 499, 457
+(N.D.N.Y. 1996). Blisset establishes Plaintiff may not have the Court simultaneously apply the
+- 4 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 10 of 15
+first sentence of E.P.T.L. § 11-3.2(a)(1)—the portion of the statute permitting her to bring this
+action against the Estate—but disregard the very next sentence precluding punitive damages. See
+Blisset, 940 F. Supp. at 457 (“[I]t would be an anomalous situation indeed if plaintiff were allowed
+to proceed with this section 1983 action against the estate of Casey because of section 11-3.2(a)(1),
+while at the same time he was allowed to recover relief in the form of punitive damages, which
+clearly is beyond the scope of relief which that statute authorizes.”). To quote Judge Engelmayer’s
+findings, it would be “problematic for [Plaintiff] to cherrypick within that provision, invoking the
+part that authorizes a personal injury suit against an executor while disclaiming the balance, which
+delimits the recovery available in such a suit.” Mary Doe, No. 19-cv-10758, ECF No. 38, slip op.
+at 12 (citing Blisset, 940 F. Supp. at 457).
+Moreover, even if the reasoning in Blisset did not apply (it does), Plaintiff cites no authority
+justifying a departure from black-letter law holding the law of the place of the tort—here, New
+York3—governs punitive damages. The Second Circuit has expressly acknowledged the strong
+interest New York has with respect to unlawful behavior within its borders, holding that where, as
+here, alleged misconduct takes place in New York, New York law applies to the issue of damages:
+If conflicting conduct-regulating laws are at issue, the law of the jurisdiction where
+the tort occurred will generally apply because that jurisdiction has the greatest
+interest in regulating behavior within its borders. Cooney, 81 N.Y.2d at 72. In
+Licci ex rel. Licci v. Lebanese Can. Bank, SAL, 739 F.3d 45 (2d Cir. 2014) (per
+curiam), we observed that, under New York law, when the jurisdictions of the
+conduct and injury are distinct, “it is the place of the allegedly wrongful conduct
+that generally has superior ‘interests in protecting the reasonable expectations of
+the parties who relied on the laws of that place to govern their primary conduct and
+in the admonitory effect that applying its law will have on similar conduct in the
+future.’” Id. at 50-51 (quoting Schultz, 65 N.Y.2d at 198) (alterations omitted).
+Here, the allegedly wrongful conduct … took place in New York…. We therefore
+conclude that New York’s rules … apply.
+3 Plaintiff’s Opposition brief concedes that her claims only apply to torts that allegedly occurred in New York. (Opp.
+at n.1.).
+- 5 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 11 of 15
+AHW Inv. P’ship, MFS, Inc. v. Citigroup Inc., 661 F. App’x 2, 5 (2d Cir. 2016); see also Starr
+Indem. & Liab. Co. v. Am. Claims Mgmt., No. 14-cv-0463-JMF, 2015 U.S. Dist. LEXIS 60272, at
+*7 (S.D.N.Y. May 7, 2015) (“Because punitive damages are conduct-regulating, ‘the law of the
+jurisdiction where the tort occurred will generally apply.’”) (quoting Deutsch v. Novartis Pharms.
+Corp., 723 F. Supp. 2d 521, 524 (E.D.N.Y. 2010); Guidi v. Inter-Continental Hotels Corp., No.
+95-CV-9006, 2003 U.S. Dist. LEXIS 6390, at *1 (S.D.N.Y. Apr. 16, 2003)).
+Plaintiff argues—just like the plaintiffs in Mary Doe and Jane Doe 15 unsuccessfully
+argued—that the USVI’s interests in the availability of punitive damages supersedes New York
+merely because Mr. Epstein’s will is being probated in the USVI and he beneficially owned real
+property there, and (Plaintiff claims based on pure speculation) because applying New York law
+would “reward” him by “shielding him from punishment.” (Opp. Br. at 3-4.) However, per the
+well-established legal authority cited above and Plaintiff’s own allegations (id. at 7), Plaintiff is
+wrong—New York has a far stronger connection to this action than the USVI. Here, as in Mary
+Doe, Plaintiff alleges the acts giving rise to her claims occurred entirely in New York. (Id. at n.1.)
+Further, just like the plaintiffs in Mary Doe (and Jane Doe 15, for that matter), Plaintiff chose to
+sue the Estate in New York, bringing claims that are only timely under New York law. See Mary
+Doe, No. 19-cv-10758, ECF No. 38, slip op. at 12 (“New York’s interest is also reinforced by the
+fact that Doe’s suit is timely only by virtue of the state’s recent enactment of the New York Child
+Victims Act, which temporarily revived time-barred suits.”). Therefore, and consistent with Judge
+Engelmayer’s Opinions & Orders and well-established New York law, New York unquestionably
+has the prevailing interest in this lawsuit. SeeAHW Inv. P’ship, MFS, Inc., 661 F. App’x at 5.
+By contrast, the USVI has no interest in applying its laws on punitive damages (which in
+any event are the same as New York, as further discussed below) to alleged torts that took place
+- 6 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 12 of 15
+in New York. The sole connection of this matter to the USVI is that the Decedent’s Estate is being
+probated there—over twenty years after the alleged torts occurred. This presents a connection
+much weaker than the one deemed “tenuous” in Adelson, on which Plaintiff heavily relies. See
+Nat’l Jewish Democratic Council v. Adelson, No. 18 Civ. 8787 (JPO), 2019 U.S. Dist. LEXIS
+168675, (S.D.N.Y. Sept. 30, 2019). Even under the framework of Adelson, New York, not the
+USVI, has the greater interest in applying its laws and policies concerning Plaintiff’s improper
+claim for punitive damages. Moreover, and as Judge Engelmayer found, Adelson is inapposite
+where, as here, the lawsuit “does not build on a prior litigation in, or [is not] based on the law of,
+the USVI.” See Mary Doe, No. 19-cv-10758, ECF No. 38, slip op. at 14.
+D. As Judge Engelmayer recently held, punitive damages are also unavailable
+under USVI law.
+In any event, and as Judge Engelmayer ruled, the choice of law debate here is “academic.”
+Mary Doe, No. 19-cv-10758, ECF No. 38, at 14. “That is because, while the USVI does not have
+a statute on point and USVI courts have not squarely resolved the issue, it is likely that USVI
+common law would not permit an award of punitive damages against an estate.” Id.
+Plaintiff completely misapplies the Banks analysis, which USVI courts use to determine
+common law. See Banks v. Int’l Rental & Leasing Corp., 55 V.I. 967, 979 (2011). As set forth in
+Mary Doe, a proper Banks analysis demonstrates that USVI courts would not allow punitive
+damages against a deceased tortfeasor’s estate. SeeMary Doe, No. 19-cv-10758, ECF No. 38, slip
+op. at 14.
+A Banks analysis entails consideration of “three non-dispositive factors”: (1) whether any
+USVI court has previously adopted a particular rule; (2) the position taken by a majority of courts
+of other jurisdictions; and (3) most importantly, which rule represents the soundest rule for the
+- 7 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 13 of 15
+USVI. Gov’t of Virgin Islands v. Connor, 60 V.I. 597, 600 (2014); see also Matthew v. Herman,
+56 V.I. 674, 680 (2012); Banks v. Int’l Rental & Leasing Corp., 55 V.I. 967, 979 (2011).
+As for the first factor, “USVI courts have repeatedly cited the Restatement (Second) of
+Torts § 908 favorably.” Mary Doe, No. 19-cv-10758, ECF No. 38, slip op. at 14-15; see also
+Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009); Booth v. Bowen, Civ. No. 2006-
+217 (CVG), 2008 WL 220067, at *5 (D.V.I. Jan. 10, 2008)). “Twice, albeit in dicta, [USVI courts]
+have expressly quoted the language in comment (a) to § 908 that bars an award of punitive damages
+against the estate of a decedent tortfeasor.” Id. In contrast, Plaintiff fails to set forth any authority
+in favor of its argument that USVI courts would take any other position. Accordingly, the first
+Banks factor favors the Co-Executors.
+With respect to the second Banks factor, Plaintiff admits this factor favors the Co-
+Executors, stating: “it is true that barring punitive damages against an estate is the majority view.”
+(Opp. at 7). See also 2 Linda L. Schlueter, Punitive Damages § 20.4 (7th ed. 2015) (“[A] majority
+of jurisdictions will not award punitive damages against a deceased tortfeasor’s estate.”) (citing
+Alec A. Beech, Adding Insult to Death: Why Punitive Damages Should Not Be Imposed Against a
+Deceased Tortfeasor’s Estate in Ohio, 49 Akron L. Rev. 553 (2016)); Timothy R. Robicheaux and
+Brian H. Bornstein, Punished, Dead Or Alive: Empirical Perspectives on Awarding Punitive
+Damages Against Deceased Defendants, 16 Psych. Pub. Pol. and L. 393, 398 (2010) (“The
+Restatement (Second) of Torts (1965) is one authority stating that punitive damages should not
+follow the death of a wrongdoer, and the majority of courts considering the issue have provided
+rulings consistent with this position.”).
+Unable to argue otherwise, Plaintiff asks the Court to disregard this result merely because
+the USVI has not passed a statute to this effect. (Opp. at 8.) However, Judge Engelmayer was
+- 8 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 14 of 15
+correct when he found that “this distinction … does not appear germane to the Banks inquiry.”
+See Mary Doe, No. 19-cv-10758, ECF No. 38, slip op. at 14.
+The third Banks factor also favors the Co-Executors. USVI courts have already found that
+§ 908 of the Restatement is “the soundest rule for the Virgin Islands with respect to the imposition
+of an award of punitive damages.” Pappas v. Hotel on the Cay Time-Sharing Ass’n, 69 V.I. 3, 15
+n.8 (U.S.V.I. Super. Ct. 2015) (citing Davis v. Christian, 46 V.I. 557 (D.V.I. App. Div. 2005);
+Isaac v. Crichlow, 63 V.I. 38, 2015 V.I. LEXIS 15 (V.I. Super. Ct. 2015); St. Thomas House, Inc.
+v. Barrows, 15 V.I. 435 (V.I. Terr. Ct. 1979); Brandy v. Flamboyant Inv. Co., Ltd., 24 V.I. 249
+(V.I. Terr. Ct. 1989); Thomas v. Rijos, 780 F. Supp. 2d 376, 380 (D.V.I. 2011)); see also Powell
+v. Chi-Co’s Distrib., No. ST-13-TOR-14, 2014 V.I. LEXIS 21, at *5 n.13 (U.S.V.I. Super. Ct. Apr.
+3, 2014) (“Applying a Banks analysis, the Court finds that Restatement (Second) of Torts § 908(2)
+reflects the common law of this jurisdiction.”).
+Plaintiff’s remaining arguments fail for all of the same reasons applied by Judge
+Engelmayer in Mary Doe. First, Plaintiff argues that, because the Attorney General of the USVI
+seeks punitive damages against the Estate in an unrelated, civil racketeering lawsuit, punitive
+damages are allowed under USVI law. “But the decision by a government lawyer to attempt to
+obtain such damages in a high-profile case involving allegations of extreme conduct . . . do not
+speak to the question that the third Banks factor assays: which rule of law best durably servers the
+USVI’s interests.” Mary Doe, No. 19-cv-10758, ECF No. 38, slip op. at 16. Even where an
+attorney general purports to interpret a law—and here the USVI Attorney General did no such
+thing—the Supreme Court has warned against accepting such interpretation as authoritative. See
+Stenberg v. Carhart, 530 U.S. 914, 940, 120 S. Ct. 2597, 2614 (2000) (“[O]ur precedent warns
+against accepting as ‘authoritative’ an Attorney General’s interpretation of state law.”).
+- 9 -
+Case 1:20-cv-00484-JGK-DCF Document 40 Filed 05/11/20 Page 15 of 15
+Finally, Plaintiff argues that the circumstances of Mr. Epstein’s death—which are pure
+speculation in any event—should dictate the “soundest rule for the USVI.” (Opp. at 5-7.)
+However, Plaintiff cites no law to support this position aside from a misleading quotation in dicta
+from Crabtree ex rel. Kemp v. Estate of Crabtree, 837 N.E.2d 135 (Ind. 2005). Yet, in Crabtree,
+the Indiana Supreme Court declined to create a new rule permitting punitive damages where “a
+tortfeasor seems to have considered his own death as an escape from punitive damages,” and
+instead joined the majority of jurisdictions in holding that “Indiana law does not permit recovery
+of punitive damages from the estate of a deceased tortfeasor.” Crabtree ex rel. Kemp v. Estate of
+Crabtree, 837 N.E.2d 135, 139 (Ind. 2005).
+In conclusion, every Banks factor favors the Co-Executors. The courts of the USVI would
+not allow Plaintiff to seek punitive damages against a deceased tortfeasor’s estate, and the Court
+should not permit Plaintiff to do so here.
+CONCLUSION
+For the reasons stated above and in their moving brief (ECF No. 37), the Co-Executors
+respectfully request that the Court grant their motion to dismiss, together with such other and
+further relief as the Court deems just and proper.
+Dated: New York, New York
+May 11, 2020
+By: /s/ Bennet J. Moskowitz
+Bennet J. Moskowitz
+TROUTMAN SANDERS LLP
+875 Third Avenue
+New York, New York 10022
+Attorney for the Co-Executors
+- 10 -

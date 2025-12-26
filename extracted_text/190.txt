@@ -1,0 +1,51 @@
+RECEIPT
+JOSEPH ABRUZZO
+5251135
+CLERK OF THE CIRCUIT COURT & COMPTROLLER
+Printed On:
+PALM BEACH COUNTY, FLORIDA
+03/14/202411:57
+Page 1 of 1
+Receipt Number: 5251135 - Date 03/14/2024 Time 11:57AM
+Received of: Stephen A. Mendelsohn
+401 East Las Olas Boulevard
+Fort Lauderdale, FL 33301
+Y
+Cashier Name: ADMIN Balance Owed: 100.00
+Cashier Location: E-Filing Total Amount Paid: 100.00
+P
+Receipt ID: 11653429 Remaining Balance: 0.00
+O
+Division: AG: Circuit Civil Central - AG(Civil)
+Case# 50-2019-CA-014681-XXXX-MB -- PLAINTIFF/PETITIONER: CA FLORIDA HOLDINGS LLC
+C
+PUBLISHER OF THE PALM BEACH POST
+Item
+I
+Balance
+I
+Paid
+I
+Bal Remaining
+D
+Fees 100.00 100.00 0.00
+Case Total 100.00 100.00 0.00
+E
+Payments
+I
+Type I RefF# I Amount
+EFiling_CREDITCARD 10621899 100.00
+I
+Total Received 100.00
+T
+Total Paid 100.00
+R
+How was your service today?E Please visit www.mypalmbeachclerk.com/survey or send your
+feedback to clerkweb@mypalmbeachclerk.com.
+C
+For office locations and information about Clerk & Comptroller services:
+Visit www.mypalmbeachclerk.com or call (561) 355-2996.
+A
+T
+O
+N

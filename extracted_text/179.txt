@@ -1,0 +1,547 @@
+M A N D A T E
+from
+DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA
+FOURTH DISTRICT
+This cause having been brought to the Court by appeal, and after due
+consideration the Court having issued its opinion;
+Y
+YOU ARE HEREBY COMMANDED that such further proceedings be had in said
+P
+cause as may be in accordance with the opinion of this Court, and with the rules of
+O
+procedure and laws of the State of Florida.
+C
+WITNESS the Honorable Mark W. Klingensmith, Chief Judge of the District Court
+of Appeal of the State of Florida, Fourth District, and seal o f the said Court at West
+D
+Palm Beach, Florida on this day.
+E
+DATE: May 26, 2023
+I
+CASE NO.: 22-0293 F
+COUNTY OF ORIGIN: Palm BeachI
+T
+T.C. CASE NO.: 502019CA014681XXXXMB
+R
+STYLE: CA FLORIDA HOLDINGS, v. DAVE ARONBERG, as State
+E
+LLC, Publisher of THE Attorney of Palm Beach County,
+PALM BEACHC POST Florida, et al.
+A
+T
+O LONN WEISSBLUM,. Clerk
+Fourth District Court of Appeal
+N
+Served:
+cc: Amy Singer Borman Brigid Finerty Cech Samole Collin D. Jackson
+Douglas Wyler Jennifer Fleming Printz Jessica Neer McDonald
+Katherine Marie Clemente Michael J. Grygiel Nina D. Boyajian
+Stephen A. Mendelsohn Clerk Palm Beach
+kr
+FILED: PALM BEACH COUNTY, FL JOSEPH ABRUZZO, CLERK 05/26/2023 04:31:39 PM
+DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA
+FOURTH DISTRICT
+CA FLORIDA HOLDINGS, LLC, Publisher of THE PALM BEACH POST,
+Appellant,
+v.
+Y
+DAVE ARONBERG, as State Attorney of Palm Beach County, Florida,
+P
+and JOSEPH ABRUZZO, as Clerk of the Circuit Court
+O
+and Comptroller of Palm Beach County, Florida,
+Appellees.
+C
+No. 4D22-293
+D
+[May 10, 2023]
+E
+Appeal from the Circuit Court for theI Fifteenth Judicial Circuit, Palm
+F
+Beach County; Donald W. Hafele, Judge; L.T. Case No. 50-2019-CA-
+014681-XXXX-MB. I
+T
+Stephen A. Mendelsohn of Greenberg Traurig, P.A., Fort Lauderdale,
+R
+Brigid F. Cech Samole of Greenberg Traurig, P.A., Miami, and Katherine
+M. Clemente of GreenberEg Traurig, LLP, New York, New York, for appellant.
+C
+Nina D. Boyajian of Greenberg Traurig, LLP, Los Angeles, California,
+Pro Hac Vice, for ap pellant.
+A
+Michael J. Grygiel of Greenberg Traurig, LLP, Albany, New York, Pro
+Hac Vice, Tfor appellant.
+O
+Collin Doern Jackson, Jennifer Fleming Printz, and Amy Singer
+BoNrman, West Palm Beach, for appellee Joseph Abruzzo, as Clerk of the
+Circuit Court and Comptroller, Palm Beach County, Florida.
+PER CURIAM.
+CA Florida Holdings, LLC, the publisher of the Palm Beach Post (“the
+Post”), appeals a final judgment denying the Post’s request for access to
+the grand jury proceedings involving the late Jeffrey Epstein. The Post
+argues the final judgment should be reversed for three reasons: (1) section
+905.27, Florida Statutes (2019), provides a private right of action for
+disclosure of grand jury materials; (2) the circuit court has the inherent
+power to regulate the use of grand juries; and (3) grand jury secrecy is not
+absolute. We agree with the Post in part, and reverse and remand the
+case.
+• The Trial Court Proceedings
+The Post filed a complaint against the state attorney and the clerk,
+requesting disclosure of the grand jury materials under section 905.27,
+Y
+Florida Statutes (2019). Both defendants moved to dismiss. In response,
+the Post filed an amended complaint, adding a count for declaratory relief.
+P
+Both defendants answered the amended complaint asO to the declaratory
+relief count and moved to dismiss the count requesting grand jury
+C
+materials under section 905.27. The state attorney denied “possession
+and/or control of documents.” The clerk admitted it “[was] in possession
+and/or control of documents.” D
+E
+The Chief Judge of the Fifteenth Judicial Circuit heard the motions to
+dismiss. The Chief Judge stated: “I donI’t think anybody is saying that
+there isn’t a cause of action [underF section 905.27] or that the press
+doesn’t have standing.” Counsel foIr both the clerk and state attorney
+indicated they did not seek to “blTock access” to the records. The trial court
+granted the motions to dismiss, ruling section 905.27 did not provide a
+R
+private cause of action.
+E
+Specifically, the order stated: “[T]he [c]ourt does not suggest The Post
+C
+has no available mechanism to obtain a court order granting it access to
+the grand jury proc eedings. The [c]ourt also does not render any opinion
+A
+as to whether releasing these records is appropriate for the purpose of
+‘furthering justice’ within the meaning of section 905.27.” The Post
+dropped thTe state attorney as a defendant. The clerk remained a nominal
+defendant as the records custodian.
+O
+The Post moved for summary judgment, asserting the grand jury
+N
+materials should be released under the First Amendment of the U.S.
+Constitution in conjunction with section 905.27, which allows for the
+release of grand jury materials “in . . . furtherance of justice.” The Post
+also argued the trial court had inherent authority over the grand jury to
+order the disclosure. Prior to the hearing, the clerk filed an extensive
+opposition, citing Florida Rule of General Practice and Judicial
+Administration 2.420. The Post filed a reply. The clerk did not cross-move
+for summary judgment.
+The then-assigned trial court held a hearing and ultimately issued a
+final judgment dismissing the Post’s complaint, finding the court’s
+2
+inherent authority was constrained by section 905.27. Further, the trial
+court found it had “limited authority to order the release of grand jury
+records” regardless of “how palatable and persuasive [the Post’s]
+arguments may be.”
+Rather than evaluate the Post’s motion for summary judgment under
+section 905.27, the trial court ruled “the proper procedure for obtaining
+disclosure of confidential court records is set forth in FloridYa Rule of
+General Practice and Judicial Administration 2.420(j).” The trial court
+P
+found its “inherent authority” did not “permit it to broaden” section
+905.27’s purported limits. The trial court interpreted theO statute to require
+a pending civil or criminal action in which the movant is a party before the
+C
+“in furtherance of justice” provision could be invoked.
+The trial court agreed “the established Dmatters surrounding Mr.
+Epstein’s conduct, the circumstances of his resolution of the 2006 state
+E
+charges and potential federal charges, and his 2008 guilty plea and
+incarceration are matters of public interesIt, and disclosure of the Materials
+may arguably fall within the concept oFf ‘furthering justice’ in the broadest,
+social sense of the phrase.” I
+T
+From this order, the Post appeals and reiterates its trial court
+R
+arguments. The clerk maintains a neutral position.1 No one opposes the
+requested disclosure. E
+C
+• Standard of Review
+A
+We review de novo a final summary judgment. Cleveland v. Westport
+Recovery Corp., 331 So. 3d 728, 730 (Fla. 4th DCA 2021).
+T
+• Florida Rule of General Practice and Judicial
+O
+Administration 2.420
+N
+At the outset we hold the trial court’s reliance on Florida Rule of
+General Practice and Judicial Administration 2.420 was misplaced. First,
+the Post did not request the materials pursuant to rule 2.420. That rule
+was simply not raised in the pleadings. And second, the clerk, who
+injected rule 2.420 into the proceedings, advised this court in oral
+argument that the rule is inapplicable because this case does not involve
+an ongoing criminal or civil matter.
+1 The Post, the circuit court clerk, and this Court all agree the only reason for the
+clerk’s continued participation is solely as custodian of the grand jury materials.
+3
+In short, the trial court erred in analyzing the disclosure issue under
+rule 2.420. This alone requires reversal and remand for an analysis under
+section 905.27.
+• Section 905.27
+“There is a tradition in the United States, a tradition that is ‘older than
+Y
+our Nation itself,’ that proceedings before a grand jury shall generally
+remain secret.” In re Petition of Craig, 131 F.3d 99, 101 (2d Cir. 1997)
+P
+(citations omitted).
+O
+The rule of secrecy, however, is not without exceptions. Those
+C
+exceptions have developed historically alongside the secrecy
+tradition and, more recently, in the practi ce of the federal
+courts. They also are codified in [FedeDral Rule of Criminal
+Procedure 6(e)(3)]. By this rule, district courts, as part of their
+E
+supervisory authority over the grand juries that they have
+empaneled, are explicitly given thIe discretion to determine
+whether, if one or more of the lFisted exceptions to grand jury
+secrecy apply, disclosure of reIcords is appropriate.
+T
+. . . [T]his court has recognized that there are certain ‘special
+R
+circumstances’ in which release of grand jury records is
+appropriate even oEutside of the boundaries of the rule.
+C
+Id. at 102 (citations omitted).
+A
+In Craig, the Second Circuit held the district court had authority to
+release grand jury materials based on special circumstances that went
+beyondT the six exceptions listed in Rule 6. Similarly, in In re
+Hastings, 735 F.2d 1261, 1268–69 (11th Cir. 1984), the Eleventh
+O
+Circuit affirmed the district court’s disclosure of grand jury proceedings
+even though not specifically authorized by Rule 6. And the U.S.
+N
+Supreme Court has held section 905.27 cannot prevent a grand jury
+witness from disclosing his/her own testimony because it would violate
+the witness’s First Amendment rights. Butterworth v. Smith, 494 U.S.
+624 (1990).
+We extract from these decisions the court’s inherent authority to
+disclose grand jury materials despite the traditional rule of secrecy. In
+fact, this is contemplated and supported by section 905.27’s language.
+Craig also provides helpful instruction on what a trial court should
+consider when faced with this issue.
+4
+Mindful that there is no talismanic formula or rigid set of
+prerequisites, we offer the following non-exhaustive list of
+factors that a trial court might want to consider when
+confronted with these highly discretionary and fact-sensitive
+‘special circumstances’ motions: (i) the identity of the party
+seeking disclosure; (ii) whether the defendant to the grand
+jury proceeding or the government opposes the disclosureY; (iii)
+why disclosure is being sought in the particular case; (iv) what
+P
+specific information is being sought for disclosure; (v) how
+long ago the grand jury proceedings took place; (vi)O the current
+status of the principals of the grand jury proceedings and that
+C
+of their families; (vii) the extent to which the desired material—
+either permissibly or impermissibly—has been previously
+made public; (viii) whether witnessesD to the grand jury
+proceedings who might be affected by disclosure are still alive;
+E
+and (ix) the additional need for maintaining secrecy in the
+particular case in question. I
+F
+Craig, 131 F. 3d at 106. I
+T
+With this foundation, we begin our analysis of section 905.27. That
+R
+statute’s pertinent subsections provide:
+E
+(1) A grand juror, state attorney, assistant state attorney,
+C
+reporter, stenographer, interpreter, or any other person
+appearing be fore the grand jury shall not disclose the
+A
+testimony of a witness examined before the grand jury or other
+evidence received by it except when required by a court to
+discTlose the testimony for the purpose of:
+O
+(a) Ascertaining whether it is consistent with the testimony
+given by the witness before the court;
+N
+(b) Determining whether the witness is guilty of perjury; or
+(c) Furthering justice.
+(2) It is unlawful for any person knowingly to publish,
+broadcast, disclose, divulge, or communicate to any other
+person, or knowingly to cause or permit to be published,
+broadcast, disclosed, divulged, or communicated to any other
+person, in any manner whatsoever, any testimony of a witness
+examined before the grand jury, or the content, gist, or import
+5
+thereof, except when such testimony is or has been disclosed
+in a court proceeding. When a court orders the disclosure of
+such testimony pursuant to subsection (1) for use in a
+criminal case, it may be disclosed to the prosecuting attorney
+of the court in which such criminal case is pending, and by
+the prosecuting attorney to his or her assistants, legal
+associates, and employees, and to the defendant and the
+defendant’s attorney, and by the latter to his or her Ylegal
+associates and employees. When such disclosure is ordered
+P
+by a court pursuant to subsection (1) for use in a civil case, it
+may be disclosed to all parties to the case aOnd to their
+attorneys and by the latter to their legal associates and
+C
+employees. However, the grand jury testimony afforded such
+persons by the court can only be used in the defense or
+prosecution of the civil or criminal caDse and for no other
+purpose whatsoever.
+E
+§ 905.27, Fla. Stat. (2019). I
+F
+We disagree with the trial court’sI restrictive reading of section 905.27.
+We read subsection (1) to prohibTit identified people from disclosing grand
+jury witness testimony and evidence, unless required to be disclosed by a
+R
+court. The statute articulates three exceptions to the prohibition. Its very
+language contemplates thEe trial court’s ability to order disclosure: “except
+when required by a court to disclose . . . .” § 905.27(1), Fla. Stat. (2019).
+C
+Although section 905.27 addresses grand jury proceeding secrecy and
+A
+non-disclosure, it also specifically recognizes a court’s inherent authority
+to order disclosure. Here, the Post requested disclosure to further justice
+in this higTh-profile criminal investigation into the late Jeffrey Epstein. The
+Post did so by tracing the investigation’s controversial history and ultimate
+O
+disposition of the charges against him. The trial court was required
+therefore to determine whether the disclosure will in fact further justice
+N
+under section 905.27.
+Courts have inherent authority to “do all things that are reasonably
+necessary for the administration of justice within the scope of its
+jurisdiction, subject to existing laws and constitutional provisions.” Rose
+v. Palm Beach County, 361 So. 2d 135, 137 (Fla. 1978). Here, the trial
+court did not exercise its inherent authority as contemplated by section
+905.27(1).
+Yet, we do know the trial court has already noted:
+6
+[T]he established matters surrounding [Epstein’s] conduct,
+the circumstances of his resolution of the 2006 state charges
+and potential federal changes, and his 2008 guilty plea and
+incarceration are matters of public interest, and disclosure of
+the Materials may arguably fall within the concept of
+“furthering justice” in the broadest, social sense of the phrase.
+. . . .
+Y
+It may well be that the disclosure of [Epstein’s] grand jury
+P
+records could reveal that fair treatment did not occur and that
+[Epstein] might have escaped appropriate pOunishment
+through some failing of our justice system.
+C
+We are not unmindful of section 905.27’s subsection (2), which the trial
+court read to limit any disclosure under suDbsection (1). But we also
+disagree with the trial court’s reading of subsection (2).
+E
+We read subsection (2) to accomplishI two things. First, it prohibits
+disclosure by others than those listedF in subsection (1) unless disclosure
+has been ordered. And second, it diIrects to whom disclosure can be made
+in pending criminal and civil proTceedings.
+R
+For the foregoing reasons, we reverse and remand the case for further
+proceedings consistent wEith this opinion. Upon remand, the trial court
+shall conduct an in-camera inspection of the material sought and using
+C
+the guidance provided by Craig, decide whether the material’s disclosure
+furthers justice. If s o, the court has the inherent authority to disclose any
+A
+material that furthers justice. In doing so, the trial court shall take steps
+necessary to protect the identity of the victims, witnesses, and those who
+have not bTeen criminally charged. If the court determines disclosure of
+any of the material will not further justice, the court can, in its discretion,
+O
+deny disclosure of that material.
+N
+Because our decision could have far-reaching consequences, we certify
+the following question to be of great public importance:
+DOES A CIRCUIT COURT HAVE INHERENT AUTHORITY TO
+DISCLOSE GRAND JURY EVIDENCE TO FURTHER JUSTICE
+UNDER SECTION 905.27?
+Reversed and remanded for further proceedings.
+MAY, J., concurs.
+CIKLIN, J., concurs specially with opinion.
+7
+KUNTZ, J., concurs specially with opinion.
+CIKLIN, J., concurring specially.
+I write to concur with the majority opinion insofar as it instructs the
+circuit court to forthwith implement a procedure necessary to provide a
+means for the circuit court to review the Palm Beach Post’s request for
+access to the subject grand jury proceedings. But contrary to thYe majority
+opinion, I tend to agree with both the circuit court and the clerk of the
+P
+circuit court that section 905.27, Florida Statutes (2019), has no bearing
+on the issue before us. Specifically, section 905.27 proOvides very narrow
+substantive rights to those indicted for crimes to obtain grand/jury
+C
+materials for use in their civil and criminal cases. § 905.27(1)-(2), Fla. Stat.
+(2019). Like Florida Rule of General Practice and Judicial Administration
+2.420, section 905.27 assumes an ongoing civDil or criminal case, and that
+is not the posture of this case, rendering both provisions equally
+E
+inapplicable.
+I
+But—under the jurisprudence of Fthis state—that does not end our
+inquiry because the Florida judiciarIy has inherent authority over all of its
+grand jury records and does Tnot need legislative authority to do its
+business.
+R
+Florida’s judicial syEstem and all Florida grand juries enjoy an
+inseparable relationship that goes back more than 120 years. The Florida
+C
+Supreme Court has described it as a “blood kinship.” In re Grand Jury
+Investigation, 287 S o. 2d 43, 46 (Fla. 1973).
+A
+Because Florida grand juries are an integral part of the Florida judicial
+system, I Twould hold that under the Florida Constitution, the Florida
+judiciary has the inherent power, authority, and control over all Florida
+O
+grand jury proceedings—which are indisputably court proceedings—
+including the release of its records and materials. Subject to the
+N
+rulemaking power of the Florida Supreme Court, this inherent authority
+includes the overall regulation and control of all grand juries as integral to
+“a judicial proceeding in a court of justice . . . an appendage or adjunct to
+the circuit court.” In re Grand Jury, 287 So. 2d at 46 (quoting Craft v.
+State, 29 So. 418, 419 (Fla. 1900)).
+I also concur with my colleagues’ decision to certify the question of great
+public importance raised in this case to the Florida Supreme Court. The
+question of a circuit court’s inherent authority to order disclosure of grand
+jury records is a matter of first impression. See Duggan v. Tomlinson, 174
+So. 2d 393, 393 (Fla. 1965) (recognizing that, pursuant to provisions of the
+8
+Florida Constitution, the Florida Supreme Court has jurisdiction to review
+any decision of a district court of appeal that passes upon a question of
+great public interest, especially as to “decisions . . . of first impression”).
+Additionally, our decision could have far-reaching consequences, as it has
+the potential of resulting in numerous requests by the press or the public
+for disclosure of grand jury records. See Young v. State, 678 So. 2d 427,
+429 (Fla. 4th DCA 1996) (certifying a question of great public importance
+where the issue “arises frequently and affects numerousY criminal
+defendants within this district and throughout the state”). Thus, I too
+P
+would certify a question of great public importance but would slightly
+broaden it as follows: O
+C
+WHAT POLICIES AND PROCEDURES, IF ANY, SHOULD BE
+ENACTED UNDER THE RULE-MAKING AUTHORITY OF THE
+FLORIDA SUPREME COURT OR THE ADUTHORITY VESTED
+TO THE CIRCUIT COURTS BY THE FLORIDA SUPREME
+E
+COURT TO PROPERLY CONSIDER AND DECIDE A REQUEST
+TO DISCLOSE PORTIONS OF IFLORIDA GRAND JURY
+RECORDS? F
+I
+KUNTZ, J., concurring specially. T
+R
+I agree that the circuit court erred when it relied on Rule 2.420 to deny
+the appellant’s request Eto unseal the grand jury records, particularly
+because the operative pleading did not ask the court to do so. I also agree
+C
+that controlling authority gives a circuit judge discretion to order the
+release of grand jur y materials when justice requires. So I concur in the
+A
+court’s opinion.
+I do so Teven though, generally, “[t]he proceedings of a grand jury are to
+be kept secret.” Clein v. State, 52 So. 2d 117, 120 (Fla. 1950). For that
+O
+reason, the legislature “closed” grand jury proceedings to the public. Palm
+Beach Newspapers, Inc. v. Burk, 471 So. 2d 571, 582–83 n.9 (Fla. 4th DCA
+N
+1985) (C.J., Anstead, dissenting); see also Palm Beach Newspapers, Inc. v.
+Doe, 460 So. 2d 406, 408 (Fla. 4th DCA 1984). The legislature also created
+a system to peer into these secret proceedings when certain conditions are
+satisfied. Minton v. State, 113 So. 2d 361, 363 (Fla. 1959) (referencing
+section 905.27, Florida Statutes).
+This Court has agreed that section 905.27 governs the release of grand
+jury materials. See Barber v. Interim Rep. of the Grand Jury Spring Term
+1995, 689 So. 2d 1182, 1185 (Fla. 4th DCA 1997); James v. Wille, 480 So.
+2d 253, 254 (Fla. 4th DCA 1985). Our sister courts and the Florida
+Supreme Court reached the same conclusion. See, e.g., Minton, 113 So.
+9
+2d at 363; Tallahassee Democrat, Inc. v. O’Grady, 421 So. 2d 58, 59 (Fla.
+1st DCA 1982); Jackman v. State, 140 So. 2d 627, 629 (Fla. 3d DCA 1962).
+Those cases hold that section 905.27 allows the release of grand jury
+materials in the furtherance of justice. See also Keen v. State, 639 So. 2d
+597, 600 (Fla. 1994); Minton, 113 So. 2d at 363; State ex rel. Brown v.
+Dewell, 167 So. 687, 689 (Fla. 1936); James, 480 So. 2d at 254; State v.
+Gillespie, 227 So. 2d 550, 559 (Fla. 2d DCA 1969); State v. DrYayton, 226
+So. 2d 469, 474–75 (Fla. 2d DCA 1969).
+P
+Notwithstanding those cases, it is unclear whether Othe actual text of
+the statute allows release of grand jury materials outside of a civil or
+C
+criminal case. See § 905.27, Fla. Stat. The statute’s text allows disclosure
+in limited situations and to limited persons, and only when a court orders
+disclosure of the material. Id. There are Dthree exceptions. Section
+905.27(1)(a) allows the named persons to disclose grand jury testimony
+E
+when ordered by a court to do so for the purpose of “[a]scertaining whether
+it is consistent with the testimony given Iby the witness before the court.”
+Section 905.27(1)(b) allows a court Fto order disclosure of grand jury
+testimony when necessary to determIine “whether the witness is guilty of
+perjury.” Finally, section 905.2T7(1)(c) states that a court can permit the
+disclosure of grand jury testimony when the court determines that
+R
+disclosure would further justice.
+E
+Most cases focus on the third exception, disclosure in the furtherance
+C
+of justice. Section 905.27(2)—which appears to limit the disclosure to
+pending civil and c riminal proceedings—is ignored.2 In other cases, the
+A
+entire statute is ignored. Keen, 639 So. 2d at 600.
+Why poTrtions of section 905.27 are ignored is unclear. In a different
+context, the Florida Supreme Court noted that the legislature controls the
+O
+publication of grand jury materials. Miami Herald Publ’g Co. v. Marko, 352
+So. 2d 518, 520–21 (Fla. 1977) (“It is undoubtedly for this reason that the
+N
+legislature has now afforded an opportunity to prevent the publication of
+unfavorable material through the repression of matter that is ‘improper
+and unlawful.’”). If the legislative system for preventing publication of a
+grand jury report controls, why can we disregard the legislature’s system
+for releasing grand jury materials? It seems to me that “[t]he legislature
+2 It was argued in at least one case that grand jury materials can only be released
+in a pending civil or criminal case. State ex rel. Oldham v. Baker, 226 So. 2d 21,
+22 (Fla. 3d DCA 1969). The case was resolved on other grounds. Id.
+10
+has chosen . . . [the system] and it is not our prerogative to select another
+alternative.” Id. at 520 n.5.
+The language of the statute should control for another reason. The
+Florida Constitution provides broad access to public records. But it
+includes a provision that any laws or rules of court “in effect on July 1,
+1993 that limit public access to records or meetings shall remain in force,
+and such laws apply to records of the legislative and judicialY branches,
+until they are repealed.” Art. I, § 24(d), Fla. Const. If a class of documents
+P
+was not made confidential by statute or rule on that date, they would not
+be confidential unless later classified as confidential by Oa supermajority of
+the legislature. Id. § 24(c). But the legislature had provided for the
+C
+confidentiality of grand jury proceedings on that date. § 905.24, Fla. Stat.
+The statute makes grand jury proceedings confidential, and the statute is
+where we should turn to determine the exceptDions. § 905.27, Fla. Stat.
+E
+In conclusion, controlling authority holds that a court may disclose
+grand jury materials under the furtherIing justice provision of section
+905.27(1). That compels me to join thFe majority’s opinion and decision to
+certify a question to the Florida SupIreme Court. While I join the majority
+opinion in full, I do not agree thTat the majority opinion is instructing the
+circuit court to implement a procedure to provide a means to review the
+R
+pending request to access the grand jury materials. We are judges, not
+kings, and on a clean slaEte, I would stick to the language of the statute.
+C
+* * *
+A
+Not final until disposition of timely filed motion for rehearing.
+T
+O
+N
+11

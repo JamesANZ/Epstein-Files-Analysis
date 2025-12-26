@@ -1,0 +1,306 @@
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 1 of 13
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+JANE DOE,
+20cv00484 (JGK) (DF)
+Plaintiff,
+MEMORANDUM
+-against-
+AND ORDER
+DARREN K. INDYKE, et al.,
+Defendants.
+DEBRA FREEMAN, United States Magistrate Judge:
+This civil action, in which plaintiff Jane Doe (“Plaintiff”) has sued defendants
+Darren K. Indyke and Richard D. Kahn, in their capacities as executors of the estate of
+Jeffrey E. Epstein (“Epstein”) (the “Co-Executors”), as well as defendant Ghislaine Maxwell
+(“Maxwell”), individually (collectively, “Defendants”), for alleged sexual abuse and exploitation
+when Plaintiff was a minor, has been referred to this Court by the Honorable John G. Koeltl,
+U.S.D.J., for general pretrial supervision. Currently before this Court is a letter motion filed by
+defendant Maxwell, seeking a stay of these proceedings pending the resolution of the criminal
+proceedings against her. (Letter to the Court from Laura A. Menninger, Esq., dated Aug. 19,
+2020 (“8/19/20 Menninger Ltr.”) (Dkt. 69).) For the reasons discussed below, Maxwell’s motion
+for a stay is granted, and these proceedings shall be stayed in their entirety, pending further order
+of the Court.
+BACKGROUND
+Maxwell has been indicted by a grand jury in this District, and she is now being held in
+custody at the Metropolitan Detention Center (“MDC”) as she awaits her criminal trial, which is
+set to begin on July 12, 2021, before the Honorable Alison J. Nathan, U.S.D.J. (See id., at 2; see
+generally United States v. Ghislaine Maxwell, No. 20cr330 (AJN) (S.D.N.Y.).) On August 19,
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 2 of 13
+2020, Maxwell filed the letter motion that is now before this Court, requesting a stay of this
+action until the conclusion of her pending criminal case. (See 8/19/20 Menninger Ltr.) In her
+motion, Maxwell set out the factors relevant to a stay analysis, and argued that not only her own
+interest, but also the interests of the courts, the public, and the other parties would be best served
+by the requested stay. (See generally id.)
+On August 27, 2020, the Co-Executors submitted a letter consenting to the entry of a stay
+and joining in Maxwell’s request that the stay apply to the entire proceeding. (See Letter to the
+Court from Bennet J. Moskowitz, Esq., dated Aug. 27, 2020 (“8/27/20 Moskowitz Ltr.”)
+(Dkt. 77).) The Co-Executors principally argued that this Court should not consider a partial stay
+of this case (i.e., a stay that would apply solely as to Plaintiff’s claims against Maxwell), as a
+partial stay would unduly prejudice the Co-Executors’ ability to defend against Plaintiff’s claims
+and would add unnecessary cost to the litigation. (See id., at 1-2.) The Co-Executors also
+pointed out that, if this matter were stayed, Plaintiff would still be able to pursue a resolution of
+her claims through the Epstein Victims’ Compensation Program (the “Compensation Program”)
+that has been independently instituted, and that has led numerous other plaintiffs in similar cases
+before the Court to seek voluntary stays of their lawsuits. (See id., at 2-3.)
+By letter dated August 27, 2020, Plaintiff vigorously opposed the requested stay, arguing
+that the relevant factors weigh against granting the requested relief. (See generally Letter to the
+Court from Robert Glassman, Esq., dated Aug. 27, 2020 (“8/27/20 Glassman Ltr.”) (Dkt. 78).)
+In her opposition, Plaintiff contended, inter alia, that Maxwell’s detention should pose no real
+impediment to her defense of this action, suggesting that Maxwell, who filed her motion for a
+stay only after she had first sought discovery from Plaintiff in this case, “appear[ed] to want to
+gain an unfair advantage by acquiring as much information as she [could] about Plaintiff without
+2
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 3 of 13
+having to divulge anything about herself or the bad conduct she is alleged to have committed.”
+(Id., at 1; see also id., at 4-5 (arguing that Maxwell had already demonstrated her ability to
+participate actively in this action from jail).) Plaintiff also noted that, under the terms of the
+Compensation Program, she is not required to agree to a stay of her lawsuit in order to participate
+in that program. (Id., at 2.) As for the prejudice that Plaintiff would purportedly suffer from a
+stay of these proceedings, Plaintiff asserted that, “[f]or too long[,] Jeffrey Epstein and
+Ghislaine Maxwell skirted the consequences of their vile acts,” and that she should not have to
+wait “even longer for justice.” (Id., at 4.)
+Maxwell filed a reply on September 4, 2020 (see Letter to the Court from Laura A.
+Menninger, Esq., dated Sept. 4, 2020 (“9/4/20 Menninger Reply Ltr.”) (Dkt. 79)), contending
+that Plaintiff had not adequately demonstrated how the requested stay would harm her interests,
+and taking issue with Plaintiff’s assertions that Maxwell could reasonably litigate this case from
+the MDC (see id.).
+On September 4, 2020, this Court additionally received a letter from Acting United States
+Attorney Audrey Strauss, on behalf of the Government, requesting leave to intervene in this
+matter for the limited purpose of – like Maxwell – seeking a stay of this case, in its entirety,
+pending the resolution of the Government’s criminal prosecution against Maxwell. (See Letter to
+the Court from Audrey Strauss, Acting United States Attorney, by Maurene Comey, Alison Moe,
+and Lara Pomerantz, Assistant United States Attorneys, dated Sept. 4, 2020 (“9/4/20 Gov’t Ltr.”)
+(Dkt. 80).) In its letter, the Government urged this Court to stay this action on the grounds that
+“a complete stay of this civil action [would] serve the public interest of preserving the integrity
+of the criminal prosecution against Maxwell and [would] conserve private, public, and judicial
+3
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 4 of 13
+resources; and that those interests [would] outweigh any delay or disruption caused to the
+resolution of this civil action.” (Id., at 1.)
+DISCUSSION
+I. THE GOVERNMENT’S REQUEST FOR INTERVENTION
+The Government is not a party to this civil action against Maxwell, and therefore does not
+have standing to move for a stay of this action. Thus, for the limited purpose of seeking a stay,
+the Government has sought leave to intervene in the action. (See 9/4/20 Gov’t Ltr., at 1.) This
+Court finds it unnecessary, however, to deal with the Government’s letter in an “intervention”
+framework, which would require an inquiry as to whether the Government meets the standards
+set out in Rule 24 of the Federal Rules of Civil Procedure. Rather, given that a motion for a stay
+has already been made by Maxwell, this Court finds it appropriate, in connection with that
+motion and in the exercise of its discretion, to treat the Government’s submission as that of an
+amicus curiae. See, e.g., South Carolina v. North Carolina, 558 U.S. 256, 288 (2010)
+(Roberts, C.J., concurring in part) (“Courts often treat amicus participation as an alternative to
+intervention.”); Washington State Inv. Bd. v. Odebrecht S.A., No. 17cv8118 (PGG), 2018 WL
+6253877, at *10 n.2 (S.D.N.Y. Sept. 21, 2018) (considering company’s submission contesting
+alternative service on chief executive officer as amicus filing); In GLG Life Tech Corp. Sec.
+Litig., 287 F.R.D. 262, 265 (S.D.N.Y. 2012) (same); see also Brenner v. Scott, 298 F.R.D. 689
+(N.D. Fla. 2014) (not allowing organization that opposed same-sex marriage to intervene in
+Plaintiffs’ actions challenging Florida’s constitutional and statutory provisions banning same-sex
+marriage, but allowing the organization to be heard as amicus). On this basis, this Court has
+fully considered the views expressed by the Government in its letter.
+4
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 5 of 13
+II. MAXWELL’S MOTION FOR A STAY
+A. Applicable Legal Standards
+Although staying a civil action pending the completion of a criminal prosecution against
+a named defendant has been characterized as an “extraordinary remedy,” Louis Vuitton Malletier
+S.A. v. LY USA, Inc., 676 F.3d 83, 98 (2d Cir. 2012), “courts will not hesitate to grant a stay
+‘when the interests of justice seem to require’ it,” Sec. & Exch. Comm’n v. LaGuardia,
+435 F. Supp. 3d 616, 621 (S.D.N.Y. 2020) (citing In re Worldcom, Inc. Securities Litigation,
+No. 02cv3288 (DLC), 2002 WL 31729501, at *3 (S.D.N.Y. Dec. 5, 2002)) (granting a stay where
+there was overlap of issues in the civil and criminal cases and explaining that overlap of issues is
+a particularly significant factor); see also Trustees of Plumbers & Pipefitters Nat. Pension
+Fund v. Transworld Mech., Inc., 886 F. Supp. 1134 (S.D.N.Y. 1995) (same); Volmar Distributors,
+Inc. v. New York Post Co., 152 F.R.D. 36, 42 (S.D.N.Y. 1993) (staying civil discovery pending
+completion of the criminal case against the defendant); Sec. & Exch. Comm’n v. Shkreli,
+No. 15-CV-7175 (KAM) (RML), 2016 WL 1122029, at *7 (E.D.N.Y. Mar. 2, 2016) (same).
+Ultimately, the decision as to whether to issue such a stay rests in the discretion of the
+district court, Louis Vuitton Malletier, 676 F.3d at 99, and each case requires a particularized
+inquiry, see id., at 98. In determining whether a civil action should be stayed in the face of a
+parallel criminal proceeding, courts in this District have generally been guided by six factors:
+(1) the extent to which the issues in the criminal case overlap with those presented in the civil
+case; (2) the status of the criminal case, including whether the defendant has been indicted;
+(3) the private interests of the plaintiff in proceeding expeditiously weighed against the prejudice
+to the plaintiff caused by the delay; (4) the private interests of and burden on the defendant;
+(5) the interests of the court(s); and (6) the public interest. See id.; see also, e.g., Trustees of
+5
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 6 of 13
+Plumbers and Pipefitters Nat. Pension Fund, 886 F. Supp. at 1139. The party seeking the stay
+“bears the burden of establishing its need,” Louis Vuitton Malletier, 676 F.3d at 97 (internal
+quotation marks and citation omitted), and this burden may be met where, on balance, the
+relevant factors suggest that proceeding with the civil action will likely result in undue prejudice
+to the defendant, see id. (noting that “absent a showing of undue prejudice . . . there is no reason
+why [a] plaintiff should be delayed in its efforts to diligently proceed to sustain its claim”
+(internal quotation marks, alteration, and citation omitted)).
+B. The Relevant Factors Weigh in Favor of Granting a Stay of This Action.
+In this instance, as discussed below, the relevant factors support Maxell’s application for
+a stay.
+1. Overlap Between the Civil and Criminal Cases
+“The strongest case for granting a stay is where a party under criminal indictment is
+required to defend a civil proceeding involving the same matter.” Volmar Distributors, 152
+F.R.D. at 39 (emphasis added) (citations omitted); accord In re Worldcom, 2002 WL 31729501,
+at *5. Denying a stay where there is significant factual overlap between the civil and criminal
+cases may “undermine a defendant’s Fifth Amendment privilege against self-incrimination . . .
+expand the rights of criminal discovery beyond the limits of Rule 16(b) of the Federal Rules of
+Criminal Procedure, expose the basis of the defense to the prosecution in advance of trial, or
+otherwise prejudice the case.” Volmar Distributors, 152 F.R.D. at 39 (citations omitted); see also
+Johnson v. New York City Police Dep’t, No. 01cv6570 (RCC) (JCF), 2003 WL 21664882, at *2
+(S.D.N.Y. July 16, 2003).
+As a threshold matter, this Court finds that, in this instance, there is significant factual
+overlap between this civil case and the pending criminal case. For example, as Maxwell points
+6
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 7 of 13
+out, both the Indictment in the criminal case and the Complaint in this action contain allegations
+that Maxwell “groomed” minor victims by taking them to the movies or shopping, that Epstein
+paid for victims’ education, and that Maxwell facilitated Epstein’s abusive conduct. (See 8/19/20
+Menninger Ltr., at 3 (summarizing certain allegations made in both actions and noting that
+particular allegations in the Indictment “are very similar in time frame and content to those in the
+Complaint”).) The Government, in its submission, has confirmed that the allegations pleaded in
+this case will necessarily “touch on matters relating to the pending Indictment” (9/4/20 Gov’t
+Ltr., at 2), and has also noted that “given the factual overlap between the civil and criminal cases,
+allowing the criminal matter to be resolved in the first instance may result in a narrowing of the
+factual and legal issues before this Court” (id., at 3). Plaintiff, in her opposition, does not contest
+that there is substantial overlap between the cases, in terms of the people involved, the relevant
+evidence, or the facts sought to be established. (See generally 8/27/20 Glassman Ltr.) Thus, this
+factor weighs in favor of granting a stay.
+2. Status of the Criminal Case
+The arguments favoring a stay are also stronger where the criminal case is not merely
+hypothetical or anticipated, but rather is actively proceeding. In fact, as Maxwell notes,
+“‘[w]hether the defendant has been indicted has been described as “the most important factor” to
+be considered in the balance of factors.’” (8/19/20 Menninger Ltr., at 4 (quoting Maldanado v.
+City of New York, No. 17cv6618 (AJN), 2018 WL 2561026, at *2 (S.D.N.Y. June 1, 2018)); see
+also In re Par Pharmaceutical, Inc. Sec. Litig., 133 F.R.D. 12, 13-14 (S.D.N.Y. 1990) (noting
+that “[t]he weight of authority in this Circuit indicates that courts will stay a civil proceeding
+when the criminal investigation has ripened into an indictment” (collecting cases).)
+7
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 8 of 13
+Here, Maxwell was indicted by a grand jury on June 29, 2020; she has been detained
+pending her criminal trial; and her trial date has been set. (8/19/20 Menninger Ltr., at 2.) Should
+discovery in the civil action proceed, Maxwell would be forced to decide whether to defend
+herself by making pretrial disclosures and giving deposition testimony (which could be used
+against her in the criminal case) or to invoke her Fifth Amendment privilege against self-
+incrimination (which would protect her in the criminal case, but which could well result in an
+adverse inference being drawn against her in the civil case). (See id., at 4; see also Louis Vuitton
+Malletier, 676 F.3d at 97-98 (discussing the burdens to the Fifth Amendment privilege that may
+be posed by parallel proceedings).) This legitimate concern, made more real and immediate by
+the active posture of criminal case, militates in favor of a stay.
+3. The Interests of the Plaintiff
+Plaintiff asserts that staying this proceeding would harm her interests because, as she is
+suffering “ongoing damaging effects” from the alleged abuse, and she should not have to wait
+any longer to hold Defendants accountable. (8/27/20 Glassman Ltr., at 4.) While, as a general
+matter, plaintiffs have a strong interest in the expeditious resolution of their civil claims, see
+Volmar Distributors, 152 F.R.D. at 40, Plaintiff here has not advanced any particularized reason
+why a delay would cause her prejudice, such as a likely loss of physical evidence or witness
+testimony during the period of a stay. (See 8/19/20 Menninger Ltr., at 1 (noting that “there is
+little chance that any evidence will be lost in the interim given the age of the accusations in this
+case”); see also id., at 4.)
+Additionally, although this Court is not suggesting that Plaintiff has any obligation to
+agree to a stay so as to pursue her claims through the Compensation Program (and, in fact,
+recognizes that she does not), this Court does note that a stay would not entirely hinder Plaintiff
+8
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 9 of 13
+in her ability to seek redress for the sexual assaults and other tortious conduct on which her
+claims are based, as, during the pendency of any stay, she would still be able to participate in that
+program.
+Overall, and despite Plaintiff’s assertion that a stay would work to her disadvantage, this
+Court finds that any generalized prejudice that she would suffer as the result of a stay is not
+sufficient to counterbalance the other factors that the Court should consider, which all heavily
+favor a stay.
+4. The Interests of the Defendant
+The private interests of Maxwell, and the burden that she would face in proceeding with
+discovery in the civil action at this time are significant. As already noted, if civil discovery were
+to proceed, Maxwell would have to make the difficult decision of whether to assert her Fifth
+Amendment privilege – a decision that could adversely impact her position in one or the other of
+the cases she is defending. See Louis Vuitton, 676 F.3d at 97. Also, due to heightened
+restrictions at the MDC during the COVID-19 pandemic (restrictions of which this Court takes
+judicial notice), this Court understands that counsel has had difficulty, and will likely continue to
+have difficulty, meeting with Maxwell and arranging for her to review documents or otherwise to
+confer for the purpose of preparing a defense to this civil case. (See 8/19/20 Menninger Ltr.,
+at 5; see also 9/4/20 Menninger Reply Ltr., at 2-3.)
+This Court finds that not only the existence of the criminal prosecution against Maxwell,
+but also the particularly (and unusually) restrictive circumstances of her current detention, would
+necessarily make it harder for Maxwell to participate fully in the discovery process in this action,
+and would cause her undue prejudice, weighing strongly in favor of a stay.
+9
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 10 of 13
+5. The Interests of the Court
+As for the interest of the Court, it appears that staying discovery in the civil case could
+conserve judicial resources. Where a criminal case can potentially streamline the related civil
+case, this factor supports a stay. Sec. & Exch. Comm’n v. Abraaj Inv. Mgmt. Ltd., No. 19cv3244
+(AJN), 2019 WL 6498282, at *3 (S.D.N.Y. Dec. 3, 2019). As observed by the Government, the
+pending criminal case against Maxwell may resolve issues of fact common to the two actions,
+and may therefore reduce the number of issues to be decided in subsequent proceedings in this
+case. (See 9/4/20 Gov’t Ltr., at 2.)
+Further, although it should not be the decisive factor, this Court also notes that it has
+some interest in coordinating discovery, where appropriate, among the many civil cases that have
+been brought in this District against the Epstein estate, and that none of those other cases are
+currently going forward. This Court additionally notes that tighter restrictions on discovery may
+be imposed in the context of a criminal prosecution than in a civil litigation, and that, if this civil
+case were to move forward, restrictions that have already been placed on Maxwell’s access to
+information in her criminal case could have a limiting effect on this Court’s ability to supervise
+discovery here. (See 9/4/20 Gov’t Ltr., at 3-4 (noting that “Maxwell’s access to information
+about the criminal matter is under the jurisdiction of the Honorable Alison J. Nathan, who has
+entered a protective order and has issued several rulings regarding the scope of discovery that
+Maxwell is entitled to and the manner in which she may or may not use that information”); see
+also 8/27/20 Moskowitz Ltr., at 3 (noting that Maxwell had indicated, in her initial disclosures,
+that, due to the terms of a protective order entered in the criminal case, she would be prohibited
+from disclosing certain information in the civil case).)
+Thus, at least to some extent, the Court’s interest weighs in favor of a stay.
+10
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 11 of 13
+6. The Public Interest
+Plaintiff argues that the public interest is best served by allowing her claims to proceed.
+(8/27/20 Glassman Ltr., at 5.) Specifically, she contends that the public benefits from civil
+litigation when that litigation furnishes the public with information on the torts and crimes of a
+wrongdoer. (Id.) Plaintiff further contends that, as her lawsuit is the only civil case currently
+being litigated against Maxwell (as any others have been stayed or dismissed), “the continuation
+of this last remaining civil avenue can furnish the public with critical information as to defendant
+Maxwell’s well known criminal enterprise, how it was operated and all those involved.” (Id.) It
+is a mischaracterization of this action, however, to call it the “last remaining civil avenue” for
+addressing Maxwell’s alleged misconduct, as, to the extent other civil litigation against Maxwell
+has been stayed, it has not been terminated – just as this action, if stayed, would not be ended.
+Moreover, as the Government argues, the public interest is also served by protecting the integrity
+of criminal proceedings. (See generally 9/4/20 Gov’t Ltr.) Should civil discovery proceed, there
+is a risk that the criminal prosecution could be impaired by the premature disclosure of the
+testimony of various witnesses or could otherwise be prejudiced. (See id., at 3 (citing Johnson,
+2003 WL 21664882, at *2).) On balance, this Court finds that this factor weighs in favor of
+granting a stay.
+Accordingly, taking all of the relevant factors into account, this Court finds that Maxwell
+has met her burden to show that a stay of this action is warranted.
+C. The Case Should Be Stayed in Its Entirety.
+The Co-Executors, Government, and Plaintiff all agree that, should this Court grant
+Maxwell’s request for a stay, the stay should apply to the case in its entirety. Indeed, the
+Co-Executors take pains to argue that a partial stay as to only Plaintiff’s claims against Maxwell
+11
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 12 of 13
+would unduly prejudice their ability to mount their own defense. (See 8/27/20 Moskowitz Ltr.,
+at 1-2.) Where one defendant is a central figure in an action, and where that individual’s
+testimony is of key importance, a partial stay can lead to duplicative discovery efforts. Trustees
+of Plumbers and Pipefitters Nat. Pension Fund, 886 F. Supp. at 1141. This Court is persuaded
+that, as Maxwell is a central figure in this civil case, a stay of discovery that applies only to her
+would prejudice the Co-Executors by requiring them to conduct discovery without having the
+opportunity to depose Maxwell or collect documents in her possession. (See 8/27/20 Moskowitz
+Ltr., at 1-2.) Further, a partial stay could lead to duplicative depositions, as, once the partial stay
+is lifted, Maxwell would be entitled to question any witnesses (including Plaintiff) who may
+have already been deposed during the pendency of the partial stay, and, once evidence is
+obtained from Maxwell, other parties might also wish to re-depose witnesses. (See id. at 2.)
+CONCLUSION
+For all of the foregoing reasons, Maxwell’s motion for a stay of this action, in its entirety,
+pending the completion of the criminal prosecution against her (Dkt. 69) is granted. If, however,
+the underlying circumstances change over time in a way that could affect this Court’s balancing
+of the relevant factors, then the parties may bring the changed circumstances to this Court’s
+attention, and it will then consider whether the stay should continue or be lifted. Absent any
+further application to this Court to review the stay, the parties are directed to provide this Court
+12
+Case 1:20-cv-00484-JGK-DCF Document 81 Filed 09/14/20 Page 13 of 13
+with a joint status report in no more than 90 days, and every 90 days thereafter, during the
+pendency of the stay.
+Dated: New York, New York
+September 14, 2020
+SO ORDERED
+__________________________
+DEBRA FREEMAN
+United States Magistrate Judge
+Copies to:
+All counsel (via ECF)
+13

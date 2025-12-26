@@ -1,0 +1,346 @@
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 1 of 14
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+JANE DOE, Case No. 1:20-cv-00484-JGK
+Plaintiff,
+v.
+DARREN K. INDYKE and RICHARD D.
+KAHN, in their capacities as executors of the
+ESTATE OF JEFFREY E. EPSTEIN,
+GHISLAINE MAXWELL, an individual,
+Defendants.
+PLAINTIFF'S MEMORANDUM OF LAW IN OPPOSITION TO
+DEFENDANTS’ MOTION TO DISMISS IN PART PLAINTIFF'S COMPLAINT
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+1
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 2 of 14
+TABLE OF CONTENTS
+Page
+I. INTRODUCTION ..................................................................................................................1
+II. ARGUMENT .........................................................................................................................1
+A. Defendants' Motion to Dismiss Is Procedurally Improper .........................................1
+B. Defendants Misapply New York Law Which Indicates USVI Law
+Determines The Applicability Of Punitive Damages In This Case ...........................2
+1. In Deciding This Question, The Court Must Apply New York's
+Interest Analysis .............................................................................................2
+2. USVI's Interest Is Considerably Stronger Than New York's Because
+of the Estate's Overwhelming Ties To The USVI ..........................................3
+3. The Interest Analysis's Focus On "Justice, Fairness, And The Best
+Practical Result" Points Towards Applying USVI Law.................................4
+C. USVI Law Would Allow For Punitive Damages Against the Estate .........................4
+1. The "Most Important" Banks Factor Supports Imposition Of
+Punitive Damages Against The Estate. ..........................................................5
+2. The Two Lesser Banks Factors Do Not Support Barring Punitive
+Damages Against The Estate. .........................................................................7
+III. ANY NEW ARGUMENTS RAISED BY DEFENDANTS IN THEIR REPLY
+BRIEF SHOULD BE IGNORED ..........................................................................................8
+IV. CONCLUSION ......................................................................................................................9
+i
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 3 of 14
+TABLE OF AUTHORITIES
+Page
+CASES
+Gov’t of the V.I. v. Connor
+60 V.I. 597 (2016) ................................................................................................................. 5
+FEDERAL CASES
+Babcock v Jackson
+12 NY2d 473 (1963) ............................................................................................................. 4
+Banks v. Int’l Rental & Leasing Corp.
+55 V.I. 967 (2011) ................................................................................................................. 4
+Booth v. Bowen
+No. CIV. 2006-217, 2008 WL 220067, at *5 (D.V.I. Jan. 10, 2008) .................................... 7
+Com- Tech Assocs. v. Comput. Assocs. Int’l, Inc.
+753 F. Supp. 1078, (E.D.N.Y. 1990) ..................................................................................... 2
+Crabtree ex rel. Kemp v. Estate of Crabtree
+837 N.E.2d 135 (Ind. 2005) ................................................................................................... 6
+Estate of Mayer v. Lax, Inc.
+998 N.E.2d 238 (Ind. Ct. App. 2013) .................................................................................... 6
+Feldman v. Knack
+170 A.D.3d 667 (N.Y. App. Div. 2019) ................................................................................ 4
+Golden v. Wyeth, Inc.
+No. 4-CV-2841, 2013 WL 4500879, at *3 (E.D.N.Y. Aug. 20, 2013) ............................. 3, 5
+Hamilton v. Dowson Holding Co.
+51 V.I. 619 (D.V.I. 2009) ...................................................................................................... 7
+Hunter v Palisades Acquisition XVI, LLC,
+16 CIV. 8779 (ER), 2017 WL 5513636, at *9 (S.D.N.Y. Nov. 16, 2017) ............................ 1
+Klaxon Co. v. Stentor Elec. Mfg. Co.
+313 U.S. 487 (1941) .............................................................................................................. 2
+Nat’l Jewish Democratic Council v. Adelson
+No. 18 Civ. 8787 (JPO), 2019 WL 4805719, at *6 (S.D.N.Y. Sept. 30, 2019) .................... 2
+Nicholas v. Wyndham Int’l, Inc.
+301 F. Supp. 2d 407, 410 (D.V.I. 2002) ................................................................................ 4
+Padula v. Lilarn Prop. Corp.
+644 N.E.2d 1001 (N.Y. 1994) ............................................................................................... 2
+ii
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 4 of 14
+Rapay v. Chernov
+No. 16 Civ. 4910, 2017 WL 892372, at *1, 8 (S.D.N.Y. Mar. 6, 2017) ............................... 2
+Simon v. Philip Morris Inc.
+124 F. Supp. 2d 46 (E.D.N.Y. 2000) (citing Babcock v Jackson, 12 NY2d 473, 481
+(N.Y. 1963) ........................................................................................................................... 3
+STATE CASES
+Alain Ellis Living Tr v. Harvey D. Ellis Trust (2016).
+308 Kan. at 1046 ................................................................................................................... 8
+David B. v Millar
+2 AD3d 763, 764 (N.Y. 2003) ............................................................................................... 8
+Haralson v. Fisher Surveying, Inc.
+201 Ariz. 1, 3-4 (2001) (en banc) .......................................................................................... 8
+State Farm Fire and Cas. Co. v LiMauro
+103 AD2d 514 (N.Y 1984) .................................................................................................... 8
+TREATISES
+Barry A. Lindahl, 2 Modern Tort Law: Liability and Litigation § 20:24 (2d ed., June 2019
+Update) .................................................................................................................................. 8
+Zitter, 30 A.L.R.4th 707 .................................................................................................................... 8
+iii
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 5 of 14
+I. INTRODUCTION
+Plaintiff Jane Doe (“Plaintiff”), by her undersigned attorneys, respectfully submits this
+memorandum of law in opposition to Defendants' motion to dismiss in part Plaintiff's complaint
+(ECF Nos. 36-37). First, Defendants contend that Plaintiff's claims based on torts that occurred
+outside of New York and those that occurred when she was an adult are time-barred. Plaintiff
+does not dispute this point and did not allege such in her complaint1. Second, Defendants argue
+that Plaintiff’s fifth cause of action for false imprisonment must be dismissed in its entirety as
+untimely. Plaintiff does not oppose this argument and will hereby withdraw that cause of action
+against Defendants. And finally, Defendants assert that Plaintiff's claim for punitive damages
+against the Co-Executors must be dismissed. Not so. Defendants' argument regarding punitive
+damages is not only procedurally improper but it ignores the law of the governing jurisdiction
+which decides this question: that of the United States Virgin Islands ("USVI").
+II. ARGUMENT
+A. Defendants' Motion to Dismiss Is Procedurally Improper
+First, Defendant's motion to dismiss Plaintiff's request for punitive damages is procedurally
+improper because punitive damages are not an independent cause of action. See, e.g., Hunter v
+Palisades Acquisition XVI, LLC, 16 CIV. 8779 (ER), 2017 WL 5513636, at *9 (S.D.N.Y. Nov. 16,
+2017) (“Because punitive damages are a form of damages, not an independent cause of action, a
+motion to dismiss a prayer for relief in the form of punitive damages is procedurally premature.”)
+(internal quotations omitted). The proper vehicle for Defendants' attempt to strike Plaintiff's
+1 To be clear, however, Plaintiff did suffer tremendously both outside of New York and as an adult
+as a result of Decedent Jeffrey Epstein's repeated sexual abuse of her. For the purposes of this
+lawsuit, Plaintiff only brings claims against Defendants for the numerous rapes and assaults
+against her while she was a minor in the state of New York.
+1
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 6 of 14
+prayer for punitive damages (a mode of relief) is a motion to strike under Federal Rule of Civil
+Procedure 12(f). See, e.g., Rapay v. Chernov, No. 16 Civ. 4910, 2017 WL 892372, at *1, 8
+(S.D.N.Y. Mar. 6, 2017); Com- Tech Assocs. v. Comput. Assocs. Int’l, Inc., 753 F. Supp. 1078,
+1093 (E.D.N.Y. 1990) (denying Rule 12(f) motion to strike punitive damages).
+Accordingly, Defendants' motion should be denied on this ground alone. Should the Court
+decide to entertain the motion on its merits, though, it should still be denied.
+B. Defendants Misapply New York Law Which Indicates USVI Law Determines
+The Applicability Of Punitive Damages In This Case
+Defendants fail to address in the motion the likelihood that USVI law applies to the
+question of whether Plaintiff may recover punitive damages in this case against Defendants.
+Based on the following points and authorities, it does.
+1. In Deciding This Question, The Court Must Apply New York's Interest
+Analysis
+A federal court must look to the choice-of-law rules of the forum state in resolving
+conflicts of law. See Klaxon Co. v. Stentor Elec. Mfg. Co., 313 U.S. 487, 496 (1941); Int’l Bus.
+Machs. Corp. v. Liberty Mut. Ins. Co., 363 F.3d 137, 143 (2d Cir. 2004). The forum state in this
+matter is New York. Therefore, New York choice of law analyses govern this conflict.
+In the context of tort law, "New York utilizes interest analysis to determine which of two
+competing jurisdictions has the greater interest in having its law applied in the litigation." Padula
+v. Lilarn Prop. Corp., 644 N.E.2d 1001, 1002 (N.Y. 1994). “[U]nder New York law—for punitive
+damages in particular—a court must consider the object or purpose of the wrongdoing to be
+punished and give controlling weight to the law of the jurisdiction with the strongest interest in the
+resolution of the particular issue presented.” Nat’l Jewish Democratic Council v. Adelson, No. 18
+Civ. 8787 (JPO), 2019 WL 4805719, at *6 (S.D.N.Y. Sept. 30, 2019). Further, because "punitive
+damages are designed to punish the defendant, . . . the choice-of-law inquiry for punitive
+2
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 7 of 14
+damages provisions is necessarily “defendant-focused.”" Id. (citing Golden v. Wyeth, Inc., No.
+4-CV-2841, 2013 WL 4500879, at *3 (E.D.N.Y. Aug. 20, 2013)). Importantly, in conducting this
+analysis, New York courts seek to achieve “[j]ustice, fairness, and the best practical result…"
+Simon v. Philip Morris Inc., 124 F. Supp. 2d 46, 55 (E.D.N.Y. 2000) (citing Babcock v Jackson,
+12 NY2d 473, 481 (N.Y. 1963).
+2. USVI's Interest Is Considerably Stronger Than New York's Because of
+the Estate's Overwhelming Ties To The USVI
+Here, the USVI's interest in the availability of punitive damages supersedes New York's by
+a long shot. First, the Defendant is the Estate. The Estate was probated in the USVI, where it is
+governed by USVI laws. Compl. (ECF Doc. 9) ¶¶ 28, 29. Second, Defendants Indyke and Kahn,
+both named in their capacities as executors of the Estate, were authorized by USVI Magistrate
+Judge Carolyn P. Hermon-Percell to administer the Estate. Compl. ¶ 32. In fact, as legal
+representatives of the Estate, Darren K. Indyke and Richard D. Kahn are deemed citizens of the
+USVI. Compl. ¶ 9. Third, Epstein himself was a Virgin Islander and was domiciled there, not in
+New York. Compl. ¶ 9.
+Conversely, New York's interest in having its law applied is weak. As previously noted,
+the Estate is not domiciled in New York, nor is it in probate in New York. Further, Epstein was
+not a domiciliary of New York. In short, with regard to the punitive damages question, there is no
+"there" in New York.
+Because of the "defendant-focused" nature of punitive damages, the law of the USVI—
+where the Estate was probated, where the Estate is actively overseen, and where Epstein was
+domiciled—should decide the question as to the applicability of punitive damages against the
+Estate.
+3
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 8 of 14
+3. The Interest Analysis's Focus On "Justice, Fairness, And The Best
+Practical Result" Points Towards Applying USVI Law
+Moreover, justice and fairness require the Court to apply USVI law in deciding this
+question. First, as aforementioned, the USVI has strong interests considering it is the home of the
+Estate and was the home of Epstein. The USVI clearly is most "intimately concerned with the
+outcome of (the) particular litigation." Babcock v Jackson, 12 NY2d 473, 481-82 (1963).
+Therefore, the applicability of punitive damages against the Estate should be decided by USVI
+law.
+Second, the practical result of applying New York law, as opposed to USVI law, is that it
+will reward Epstein for committing suicide by shielding him from punishment for his heinous
+sexual abuse of his victims. Had Epstein not committed suicide, it is indisputable he would face
+punitive damages alongside Maxwell.2 Thus, justice and fairness require what is also the best
+practical result: the application of USVI law in deciding this question.
+C. USVI Law Would Allow For Punitive Damages Against the Estate
+To determine USVI common law, USVI courts apply what is known as the Banks analysis.
+See Banks v. Int’l Rental & Leasing Corp., 55 V.I. 967, 979 (2011). “[I]nstead of mechanistically
+following the Restatements, courts should consider three non-dispositive factors to determine
+Virgin Islands common law: (1) whether any Virgin Islands courts have previously adopted a
+particular rule; (2) the position taken by a majority of courts from other jurisdictions; and (3) most
+2 See, e.g., Nicholas v. Wyndham Int’l, Inc., 301 F. Supp. 2d 407, 410 (D.V.I. 2002) (“[P]unitive
+damages may be awarded for conduct that is outrageous, because of defendant’s evil motive or
+[her] reckless indifference to the rights of others.”); Feldman v. Knack, 170 A.D.3d 667, 670
+(N.Y. App. Div. 2019) (punitive damages appropriate in sexual assault case because “the
+defendant’s acts were particularly heinous”).
+4
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 9 of 14
+importantly, which approach represents the soundest rule for the Virgin Islands.” Gov’t of the V.I.
+v. Connor, 60 V.I. 597, 600, 602 (2016) (emphasis added). An analysis of these three factors
+clearly indicates punitive damages are available under USVI law in this case.
+1. The "Most Important" Banks Factor Supports Imposition Of Punitive
+Damages Against The Estate.
+The "most important[]" of those factors—the "approach [that] represents the soundest
+rule for the Virgin Islands"—clearly points towards allowing punitive damages against the Estate.
+In fact, the Government of the USVI filed a complaint against the Estate in which the USVI seeks
+punitive damages against the Estate. In its complaint, the USVI affirms the soundness of
+permitting the recovery of punitive damages against the Estate. First, the USVI states the purpose
+of punitive damages "is to punish the defendant for outrageous conduct that is reckless or
+intentional" and "to deter others from engaging in such conduct in the future." Additionally, the
+USVI states "punitive damages are especially important in the case of persons or companies that
+have money, assets, and power that mere fines, penalties, and economic damages are simply not
+sufficient." The Government of the USVI's seeking punitive damages should be dispositive in this
+Banks analysis.
+Of course, the USVI properly identifies the benefits to the Virgin Islands of permitting
+punitive damages against the Estate. An independent analysis too strongly favors this approach
+for the USVI. Punitive damages in the Virgin Islands are designed to both punish wrongdoers and
+to deter others from engaging in similar conduct. See, e.g., Guardian Ins. Co. v. Gumbs, No. ST-
+15-CV-195, 2016 WL 9525609, at *10 (V.I. Super. Aug. 22, 2016). The importance to the USVI
+of deterring the kind of conduct Epstein engaged in in the USVI is obvious. It is on the USVI
+where Epstein not only abused countless girls and young women, but also “abused [the] privileges
+of residency,” specifically choosing the Virgin Islands as the location for his heinous crimes
+because of its seclusion and isolation, and thereby contributing to a public perception that the
+5
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 10 of 14
+Virgin Islands is “a hiding place for human trafficking and sex crimes.”
+Critically, Epstein committed suicide in prison with full knowledge that, to put it plainly,
+the jig was up. He faced not only the strong likelihood of life in prison, but also claims seeking
+punitive damages for his horrific acts. He committed suicide fully aware of that reality. The fact
+that Epstein would have been subject to punitive damages claims if he had not taken his own
+life—and that he committed suicide knowing he was subject to such claims—further militates in
+favor of permitting punitive damages against his Estate. This specific circumstance is recognized
+and accounted for in other jurisdictions like, for example, in Indiana where the Indiana Supreme
+Court indicated its intention to decline applying its normal bar on punitive damages "where a
+tortfeasor seems to have considered his own death as an escape from punitive damages incident to
+some intentional tort" by committing suicide. See Crabtree ex rel. Kemp v. Estate of Crabtree,
+837 N.E.2d 135, 139 (Ind. 2005).3 In this circumstance, the USVI would clearly benefit from
+allowing for punitive damages against his Estate which would otherwise be available against
+Epstein (and the very same money now sitting in trust) had he not killed himself with full
+knowledge of the weight of the claims against him.
+While courts in the USVI have favorably cited to the Section 908 of the Restatement, the
+USVI Supreme Court in Connor, supra, 60 V.I. at 600 rejected "mechanistically following the
+Restatements" and instead instructed USVI courts to apply the Banks analysis instead. The Court
+should follow its heed.
+In conclusion, it is beyond dispute that the soundest rule for the USVI would be to allow
+3 See also Estate of Mayer v. Lax, Inc., 998 N.E.2d 238, 259 (Ind. Ct. App. 2013) (noting a
+“possible exception” to the rule proscribing punitive damages against an estate “if the tortfeasor
+committed suicide to attempt to escape such damages”).
+6
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 11 of 14
+punitive damages against the Estate: 1) Epstein was a domiciliary of the USVI; 2) the Estate is
+probated in the USVI and actively administered through its courts; 3) the Government of the USVI
+is itself seeking punitive damages against the Estate; and 4) Epstein committed suicide knowing of
+the onslaught of claims against him.
+2. The Two Lesser Banks Factors Do Not Support Barring Punitive
+Damages Against The Estate.
+As for the other two elements of the Banks analysis, they do not provide any justification
+for denying punitive damages against the Estate. As for the first factor, Plaintiff is not aware of
+any USVI decision on the question of whether to permit punitive damages in this circumstance.
+While the federal court in the USVI declined to allow punitive damages in a case where the
+personal representatives of an estate seek punitive damages against a third party for the decedent’s
+wrongful death, it goes without saying the circumstances there are entirely different from the one
+here.4 They seek punitive damages in favor of an estate, whereas here punitive damages are
+sought against an estate. Simply, the circumstance at issue here has not yet been addressed by a
+USVI court.
+As for the second, less-important factor of the Banks analysis, while it is true that barring
+punitive damages against an estate is the majority view, a significant minority has reached the
+opposite conclusion: ten (Arizona, Delaware, Indiana, Ohio, Pennsylvania, South Carolina,
+4 See, e.g., Hamilton v. Dowson Holding Co., 51 V.I. 619, 628 (D.V.I. 2009) (personal
+representative seeks punitive damage against operator of a hotel where decedent was shot and
+killed); Booth v. Bowen, No. CIV. 2006-217, 2008 WL 220067, at *5 (D.V.I. Jan. 10, 2008)
+(personal representative seeks punitive damages against scuba diving instruction company after
+decedent drowned during scuba course)
+7
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 12 of 14
+Alabama, Montana, New Hampshire, and West Virginia)5 of the approximately 35 jurisdictions to
+address the question have decided punitive damages should be allowed against an estate, including
+for reasons the USVI as we write this seeks punitive damages against the Estate: adequate
+compensation for victims, punishment of wrongdoers, deterrence of other future wrongdoers, and
+social condemnation of uniquely abhorrent behavior. Haralson v. Fisher Surveying, Inc., 201 Ariz.
+1, 3-4 (2001) (en banc); see also generally Zitter, 30 A.L.R.4th 707; Barry A. Lindahl, 2 Modern
+Tort Law: Liability and Litigation § 20:24 (2d ed., June 2019 Update). Importantly, most of the
+jurisdictions adopting the majority rule have—unlike the Virgin Islands—passed a statute
+codifying a prohibition on punitive damages against an estate. See Alain Ellis Living Tr., 308 Kan.
+at 1046 (“[A]t least 14 of the cases adopting the position that an injured party cannot recover
+punitive damages from the estate of a tortfeasor—the majority rule—reached that conclusion
+because their respective state legislatures had passed a statute stating that position.”). Therefore,
+most of the jurisdictions that bar punitive damages against an Estate do so as an expression of
+legislative, not judicial, will.
+III. ANY NEW ARGUMENTS RAISED BY DEFENDANTS IN THEIR REPLY BRIEF
+SHOULD BE IGNORED
+Any new arguments raised by Defendants in the reply brief would be improper and should
+be ignored. "It is beyond cavil that raising a new substantive issue of law for the first time in a
+reply brief is improper . . ." State Farm Fire and Cas. Co. v LiMauro, 103 AD2d 514, 521-22
+(N.Y 1984); see also David B. v Millar, 2 AD3d 763, 764 (N.Y. 2003) ("This argument is not
+properly before this Court since it is raised for the first time in [] reply brief").
+5 See Jay M. Zitter, Claim for punitive damages in tort action as surviving death of tortfeasor or
+person wronged, 30 A.L.R.4th 707 (1984 ed., 2019 Suppl.).
+8
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 13 of 14
+IV. CONCLUSION
+For the foregoing reasons, Plaintiff respectfully requests that the Court deny Defendants'
+motion to dismiss Plaintiff's claim for punitive damages.
+Respectfully submitted,
+Dated: April 27, 2020 By: /s/ Robert Glassman
+Robert Glassman
+PANISH SHEA & BOYLE LLP
+11111 Santa Monica Blvd., Suite 700
+Los Angeles, CA 90025
+Telephone: (310) 477-1700
+Facsimile: (310) 477-1699
+glassman@psblaw.com
+Attorneys for Plaintiff
+9
+Case 1:20-cv-00484-JGK-DCF Document 39 Filed 04/27/20 Page 14 of 14
+CERTIFICATE OF COMPLIANCE
+I, Robert S. Glassman, hereby certify that Plaintiff's Memorandum of Opposition to
+Defendants' Motion to Dismiss contains 2,583 words and complies with the formatting rules set
+forth in the Individual Practices of Judge John G. Koeltl.
+Respectfully submitted,
+Dated: April 27, 2020 By: /s/ Robert Glassman
+Robert Glassman
+PANISH SHEA & BOYLE LLP
+11111 Santa Monica Blvd., Suite 700
+Los Angeles, CA 90025
+Telephone: (310) 477-1700
+Facsimile: (310) 477-1699
+glassman@psblaw.com
+Attorneys for Plaintiff
+10
